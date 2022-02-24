@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    margin-left: 3px;
+    font-size: 30px;
+}
+a :hover{
+    color: rgba(233, 176, 21, 0.733);
+}
+a <strong>{
+    
+}
